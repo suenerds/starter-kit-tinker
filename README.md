@@ -1,4 +1,4 @@
-# Vue Echo Listen on Mount Demo
+# React Echo Demo
 
 ```
 cp .env.example .env
